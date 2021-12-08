@@ -1,0 +1,29 @@
+﻿  307051741_PROYECTOTEO_GPO04.cpp
+D:\compus graficas\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04.cpp(243,30): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\compus graficas\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04.cpp(514,31): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\compus graficas\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04.cpp(524,31): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\compus graficas\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04.cpp(604,31): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\compus graficas\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04.cpp(614,31): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\compus graficas\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04.cpp(615,31): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\compus graficas\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04.cpp(626,31): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\compus graficas\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04.cpp(636,31): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\compus graficas\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04.cpp(637,31): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\compus graficas\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04.cpp(647,31): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\compus graficas\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04.cpp(711,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\compus graficas\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04.cpp(712,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\compus graficas\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04.cpp(716,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\compus graficas\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04.cpp(717,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\compus graficas\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04.cpp(719,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\compus graficas\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04\307051741_PROYECTOTEO_GPO04.cpp(720,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+soil2-debug.lib(SOIL2.obj) : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/OPT:ICF'
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRTD' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Generando código
+  1 of 620 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(etc1_utils.obj)' o en 'D:\compus graficas\307051741_PROYECTOTEO_GPO04\Release\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_DXT.obj)' o en 'D:\compus graficas\307051741_PROYECTOTEO_GPO04\Release\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(image_helper.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(SOIL2.obj)' o en 'D:\compus graficas\307051741_PROYECTOTEO_GPO04\Release\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  307051741_PROYECTOTEO_GPO04.vcxproj -> D:\compus graficas\307051741_PROYECTOTEO_GPO04\Release\307051741_PROYECTOTEO_GPO04.exe
